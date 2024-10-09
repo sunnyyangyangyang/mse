@@ -1,4 +1,4 @@
-*.venv
-*.conda
-*test.ipynb
+.venv
+.conda
+test.ipynb
 data
